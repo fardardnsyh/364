@@ -1,0 +1,30 @@
+// To find new icons, visit https://simpleicons.org/
+const SKILLS = [
+  'docusaurus',
+  'amazonwebservices',
+  'microsoftazure',
+  'googlecloud',
+  'powershell',
+  'linux',
+  'bash',
+  'yaml',
+  'vercel',
+  'docker',
+  'kubernetes',
+  'prometheus',
+  'helm',
+  'terraform',
+  'git',
+  'github',
+  'githubactions',
+  'gitlab',
+  'nginx',
+  'vercel',
+  'python',
+  'visualstudiocode',
+  'jira',
+  'neovim',
+  'latex',
+]
+
+export default SKILLS
